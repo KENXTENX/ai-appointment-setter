@@ -1,0 +1,40 @@
+/scripts
+    greeting.txt
+    qualification.txt
+    booking.txt
+    objection_handling.txt
+    followup_sequences.txt
+
+/prompts
+    system_prompt.txt
+    tone_prompt.txt
+    fallback_prompt.txt
+    instructions_prompt.txt
+
+/workflows
+    manychat.json
+    zapier.json
+    make.json
+    ghl-workflow.json
+
+/integrations
+    calendar_setup.md
+    crm_setup.md
+    api_keys.md
+    webhooks.md
+
+/documentation
+    overview.md
+    setup_guide.md
+    customization_guide.md
+    troubleshooting.md
+    faq.md
+
+/assets
+    logo.png
+    screenshots.md
+    demo_video.md
+
+/demo
+    demo_script.txt
+    example_conversations.txt
