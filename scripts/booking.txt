@@ -1,0 +1,6 @@
+Perfect — I can help with that.  
+Here are the next available times:
+
+{{INSERT CALENDAR SLOTS}}
+
+Which works best for you?
